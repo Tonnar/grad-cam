@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# data, runs and weights stay out of git
+data/
+runs/
+*.pt
+*.pth
+*.zip
+
+.DS_Store
+.vscode/
+.idea/
